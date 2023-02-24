@@ -523,4 +523,10 @@
     <string name="subscription_new">Підписано на %s</string>
     <string name="subscription_deleted">Відписатися від %s</string>
     <string name="subscription_episode_released">Епізод %d випущено!</string>
+    <string name="revert">Повернути</string>
+    <string name="jsdelivr_proxy">raw.githubusercontent.com
+\nProxy</string>
+    <string name="jsdelivr_enabled">Не вдалося зв\'язатися з GitHub, увімкнувши проксі-сервер jsdelivr.</string>
+    <string name="pref_category_bypass">Обходи ISP</string>
+    <string name="jsdelivr_proxy_summary">Обходити блокування GitHub з використанням jsdlitr, може викликати затримку оновлень на кілька днів.</string>
 </resources>
